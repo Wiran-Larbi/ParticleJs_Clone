@@ -6,5 +6,5 @@ This is a lightweight and easy-to-use JavaScript library for creating particle e
 
 ## Screenshots
 
-![particle js clone](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![particle js clone](https://raw.githubusercontent.com/Wiran-Larbi/ParticleJs_Clone/master/preview/ParticleJsClonePreview.png)
 
